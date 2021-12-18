@@ -1,0 +1,16 @@
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\bin\Debug\net5.0\DoctorScheduler.exe
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\bin\Debug\net5.0\DoctorScheduler.deps.json
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\bin\Debug\net5.0\DoctorScheduler.runtimeconfig.json
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\bin\Debug\net5.0\DoctorScheduler.runtimeconfig.dev.json
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\bin\Debug\net5.0\DoctorScheduler.dll
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\bin\Debug\net5.0\ref\DoctorScheduler.dll
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\bin\Debug\net5.0\DoctorScheduler.pdb
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.csproj.AssemblyReference.cache
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.AssemblyInfoInputs.cache
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.AssemblyInfo.cs
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.dll
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\ref\DoctorScheduler.dll
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.pdb
+C:\Users\Balazs\source\repos\DoctorScheduler\DoctorScheduler\obj\Debug\net5.0\DoctorScheduler.genruntimeconfig.cache
